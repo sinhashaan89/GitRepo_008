@@ -2,7 +2,7 @@ package org.mavenproject.pratice;
 
 import org.testng.annotations.Test;
 
-public class PraticeTest1 {
+public class PraticeTest198 {
 	
 
 	@Test
