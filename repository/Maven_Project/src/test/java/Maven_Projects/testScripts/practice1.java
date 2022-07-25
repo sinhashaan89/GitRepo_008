@@ -12,15 +12,15 @@ public void Practice289(){
 	System.out.println("This is method of maven for practice1,Practice2");
 }
 @Test
-public void Practice390(){
+public void Practice3903(){
 	System.out.println("This is method of maven for practice1,Practice3");
 }
 @Test
-public void Practice387(){
+public void Practice3878(){
 	System.out.println("This is method of maven for practice1,Practice3");
 }
 	@Test
-public void Practice354(){
+public void Practice3541(){
 	System.out.println("This is method of maven for practice1,Practice3");
 }
 	
